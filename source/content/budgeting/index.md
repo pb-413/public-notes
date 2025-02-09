@@ -1,4 +1,8 @@
-Here you kind find information about how I keep my budget and track my finances.
+---
+title: Budgeting
+---
+
+Information about how I keep my budget and track my finances.
 
 Pages
 - [[Creating a Budget]]
