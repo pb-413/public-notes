@@ -4,4 +4,4 @@ title: My GitHub Pages Notebook!
 
 Hello world!
 
-Write some words here!
+I'm PB and these are my publicized notes!
