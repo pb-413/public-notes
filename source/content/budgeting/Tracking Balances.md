@@ -3,9 +3,3 @@
 3. Continue into the future and examine the trends in these accounts (are they trending in lines with your goals?)
 
 If desired at the start, go 1-3 months into the past so that you have more information to create plans for the future based on; otherwise, just keep an eye on this as you go!
-
----
-
-See also:
-- [[Tracking Spending]]
-- [[Creating a Budget]]

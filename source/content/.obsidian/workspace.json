@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "budgeting/Creating a Budget.md",
+                "file": "budgeting/Tracking Spending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating a Budget"
+              "title": "Tracking Spending"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "budgeting/Creating a Budget.md",
+                "file": "budgeting/Tracking Spending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creating a Budget"
+              "title": "Backlinks for Tracking Spending"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "budgeting/Creating a Budget.md",
+                "file": "budgeting/Tracking Spending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Creating a Budget"
+              "title": "Outgoing links from Tracking Spending"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "budgeting/Creating a Budget.md"
+                "file": "budgeting/Tracking Spending.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating a Budget"
+              "title": "Outline of Tracking Spending"
             }
           }
         ]
@@ -183,8 +183,8 @@
     "budgeting/Tracking Balances.md",
     "budgeting/Creating a Budget.md",
     "budgeting/index.md",
-    "index.md",
     "budgeting/Tracking Spending.md",
+    "index.md",
     "category-folder/index.md",
     "budgeting",
     "category-folder/Some note.md",
