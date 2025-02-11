@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading/index.md",
+                "file": "budgeting/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,10 +180,10 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "reading/index.md",
     "reading/programming/Recommendations.md",
     "budgeting/Tracking Balances.md",
     "reading/programming/index.md",
-    "reading/index.md",
     "reading/programming",
     "reading/Untitled.md",
     "budgeting/index.md",
