@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "budgeting/index.md",
+                "file": "reading/programming/Recommendations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Recommendations"
             }
           }
         ],
@@ -180,13 +180,13 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "budgeting/index.md",
     "reading/index.md",
     "reading/programming/Recommendations.md",
     "budgeting/Tracking Balances.md",
     "reading/programming/index.md",
     "reading/programming",
     "reading/Untitled.md",
-    "budgeting/index.md",
     "index.md",
     "reading",
     "budgeting/Tracking Spending.md",
